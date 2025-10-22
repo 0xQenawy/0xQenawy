@@ -5,9 +5,11 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xQenawy&show_icons=true&theme=radical" alt="github-stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xQenawy&layout=compact&theme=radical" alt="top-langs" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge" alt="python" />
+  <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge" alt="bash" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge" alt="js" />
+  <img src="https://img.shields.io/badge/CTF--Learning-lightgrey?style=for-the-badge" alt="ctf" />
+  <img src="https://img.shields.io/badge/Open--to--collab-green?style=for-the-badge" alt="collab" />
 </p>
 
 ---
@@ -27,5 +29,20 @@ I'm **Abdelrahman (0xQenawy)** — a Penetration Testing enthusiast focused on o
 * GitHub: `github.com/0xQenawy`
 * LinkedIn: `linkedin.com/in/abdel-rhman-gamal` (or search **0xQenawy**)
 * Email: [abdelrhman.bin.gamal@gmail.com](mailto:abdelrhman.bin.gamal@gmail.com)
+
+---
+# 0xQenawy
+
+> **Red Team | Penetration Tester | Cybersecurity Enthusiast**
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge" alt="python" />
+  <img src="https://img.shields.io/badge/Bash-black?style=for-the-badge" alt="bash" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge" alt="js" />
+  <img src="https://img.shields.io/badge/CTF--Learning-lightgrey?style=for-the-badge" alt="ctf" />
+  <img src="https://img.shields.io/badge/Open--to--collab-green?style=for-the-badge" alt="collab" />
+</p>
 
 ---

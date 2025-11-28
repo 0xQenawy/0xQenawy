@@ -1,4 +1,4 @@
-# Hi there, I'm Abdelrahman 👋
+# Hey, I'm Abdelrahman 
 ## 0xQenawy
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a Penetration Testing enthusiast focused on offensive security and practical research.
 
@@ -21,7 +21,7 @@ I'm a Penetration Testing enthusiast focused on offensive security and practical
 
 ---
 
-## 🛠️ Languages & Tools
+## Languages & Tools
 
 <div align="center">
 
@@ -40,7 +40,7 @@ I'm a Penetration Testing enthusiast focused on offensive security and practical
 
 ---
 
-## 📫 Contact
+## Contact
 
 <div align="center">
 
